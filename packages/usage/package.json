@@ -1,9 +1,9 @@
 {
   "name": "@agramajo/usage",
-  "version": "0.1.0-beta.0",
+  "version": "0.1.0-beta.1",
   "dependencies": {
-    "@agramajo/alpha": "^0.1.0-beta.0",
-    "@agramajo/beta": "^0.1.0-beta.0"
+    "@agramajo/alpha": "^0.1.0-beta.1",
+    "@agramajo/beta": "^0.1.0-beta.1"
   },
   "license": "MIT"
 }
