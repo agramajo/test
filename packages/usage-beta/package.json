@@ -10,5 +10,6 @@
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "gitHead": "f8c39fbece6ca0a77a8d0879b378af08d7f345b5"
 }
