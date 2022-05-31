@@ -2,20 +2,32 @@
 # yarn lockfile v1
 
 
-"@agramajo/alpha@^0.1.0-beta.4", "@agramajo/alpha@file:/Users/pabloolivera/Desarrollo/MAC/gotcha/test/packages/alpha":
+"@agramajo/alpha@^0.1.0-beta.6", "@agramajo/alpha@file:/Users/pabloolivera/Desarrollo/MAC/gotcha/test/packages/alpha":
   "resolved" "file:packages/alpha"
-  "version" "0.1.0-beta.4"
+  "version" "0.1.0-beta.6"
 
-"@agramajo/beta@^0.1.1-beta.0", "@agramajo/beta@file:/Users/pabloolivera/Desarrollo/MAC/gotcha/test/packages/beta":
+"@agramajo/beta@^0.2.0-beta.0", "@agramajo/beta@0.2.0-beta.0", "@agramajo/beta@file:/Users/pabloolivera/Desarrollo/MAC/gotcha/test/packages/beta":
   "resolved" "file:packages/beta"
-  "version" "0.1.1-beta.0"
+  "version" "0.2.0-beta.0"
+
+"@agramajo/usage-alpha@file:/Users/pabloolivera/Desarrollo/MAC/gotcha/test/packages/usage-alpha":
+  "resolved" "file:packages/usage-alpha"
+  "version" "0.1.0-beta.0"
+  dependencies:
+    "@agramajo/alpha" "^0.1.0-beta.6"
+
+"@agramajo/usage-beta@file:/Users/pabloolivera/Desarrollo/MAC/gotcha/test/packages/usage-beta":
+  "resolved" "file:packages/usage-beta"
+  "version" "0.1.0-beta.0"
+  dependencies:
+    "@agramajo/beta" "^0.2.0-beta.0"
 
 "@agramajo/usage@file:/Users/pabloolivera/Desarrollo/MAC/gotcha/test/packages/usage":
   "resolved" "file:packages/usage"
-  "version" "0.1.0-beta.5"
+  "version" "0.1.0-beta.8"
   dependencies:
-    "@agramajo/alpha" "^0.1.0-beta.4"
-    "@agramajo/beta" "^0.1.1-beta.0"
+    "@agramajo/alpha" "^0.1.0-beta.6"
+    "@agramajo/beta" "0.2.0-beta.0"
 
 "@babel/code-frame@^7.0.0":
   "integrity" "sha512-iAXqUn8IIeBTNd72xsFlgaXHkMBMt6y4HJp1tIaK465CWLT/fG1aqB7ykr95gHHmlBdGbFeWWfyB4NJJ0nmeIg=="
