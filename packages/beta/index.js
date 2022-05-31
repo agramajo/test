@@ -1,5 +1,5 @@
 export default function getBeta () {
-  console.log(`Actual Date: ${new Date()}`);
+  console.log(`Actual new Date: ${new Date()}`);
   return new Date();
 };
 
