@@ -2,5 +2,18 @@
   "packages": [
     "packages/*"
   ],
-  "version": "independent"
+  "command": {
+    "create": {
+      "license": "MIT"
+    },
+    "publish": {
+      "allowBranch": ["dev", "main"],
+      "conventionalCommits": true,
+      "message": "chore(release): 🔖 Publish new version.",
+      "ignoreChanges": ["CHANGELOG.md"]
+    }
+  },
+  "version": "independent",
+  "useWorkspaces": true,
+  "npmClient": "npm"
 }

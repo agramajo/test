@@ -1,1 +1,4 @@
-module.exports = "alpha";
+export default function getAlpha(){
+  return 'ALPHA';
+}
+
