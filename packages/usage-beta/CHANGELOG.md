@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.1.0-beta.4](https://github.com/agramajo/test/compare/@agramajo/usage-beta@0.1.0-beta.3...@agramajo/usage-beta@0.1.0-beta.4) (2022-05-31)
+
+**Note:** Version bump only for package @agramajo/usage-beta
+
+
+
+
+
 # [0.1.0-beta.3](https://github.com/agramajo/test/compare/@agramajo/usage-beta@0.1.0-beta.2...@agramajo/usage-beta@0.1.0-beta.3) (2022-05-31)
 
 **Note:** Version bump only for package @agramajo/usage-beta
