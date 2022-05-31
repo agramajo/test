@@ -1,10 +1,10 @@
 {
   "name": "@agramajo/usage",
-  "version": "0.1.0-beta.5",
+  "version": "0.1.0-beta.6",
   "type": "module",
   "dependencies": {
-    "@agramajo/alpha": "^0.1.0-beta.4",
-    "@agramajo/beta": "^0.1.1-beta.0"
+    "@agramajo/alpha": "^0.1.0-beta.5",
+    "@agramajo/beta": "^0.2.0-beta.0"
   },
   "license": "MIT",
   "main": "index.js",
