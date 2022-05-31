@@ -3,9 +3,31 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [0.1.0](https://github.com/agramajo/test/compare/@agramajo/usage@0.1.0-beta.5...@agramajo/usage@0.1.0) (2022-05-26)
+# [0.1.0-beta.8](https://github.com/agramajo/test/compare/@agramajo/usage@0.1.0-beta.7...@agramajo/usage@0.1.0-beta.8) (2022-05-31)
 
 **Note:** Version bump only for package @agramajo/usage
+
+
+
+
+
+# [0.1.0-beta.7](https://github.com/agramajo/test/compare/@agramajo/usage@0.1.0-beta.6...@agramajo/usage@0.1.0-beta.7) (2022-05-31)
+
+
+### Features
+
+* uno ([1078823](https://github.com/agramajo/test/commit/107882317d231b9263049c5d0274e332d633a66f))
+
+
+
+
+
+# [0.1.0-beta.6](https://github.com/agramajo/test/compare/@agramajo/usage@0.1.0-beta.5...@agramajo/usage@0.1.0-beta.6) (2022-05-31)
+
+
+### Features
+
+* modules ([a2ec2aa](https://github.com/agramajo/test/commit/a2ec2aa32486f8adda24781b66aa0e517e5b2d83))
 
 
 

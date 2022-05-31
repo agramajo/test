@@ -1,5 +1,7 @@
+import getBeta from '@agramajo/beta';
+import getAlpha from '@agramajo/alpha';
 
-const alpha = require("@agramajo/alpha");
-const beta = require("@agramajo/beta");
-
-console.log(alpha + " " + beta);
+console.log('inicio');
+console.log(getAlpha());
+console.log(getBeta());
+console.log('fin');

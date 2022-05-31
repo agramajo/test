@@ -1,8 +1,11 @@
 {
-  "name": "@agramajo/beta",
-  "version": "0.2.0-beta.0",
-  "license": "MIT",
+  "name": "@agramajo/usage-beta",
+  "version": "0.1.0-beta.1",
   "type": "module",
+  "dependencies": {
+    "@agramajo/beta": "^0.2.0-beta.0"
+  },
+  "license": "MIT",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",

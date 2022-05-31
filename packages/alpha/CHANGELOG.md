@@ -3,9 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [0.1.0](https://github.com/agramajo/test/compare/@agramajo/alpha@0.1.0-beta.4...@agramajo/alpha@0.1.0) (2022-05-26)
+# [0.1.0-beta.6](https://github.com/agramajo/test/compare/@agramajo/alpha@0.1.0-beta.5...@agramajo/alpha@0.1.0-beta.6) (2022-05-31)
 
-**Note:** Version bump only for package @agramajo/alpha
+
+### Features
+
+* alpha 2 ([07dd1b7](https://github.com/agramajo/test/commit/07dd1b70d877bb73fd862d0b532068db7c5957a1))
+
+
+
+
+
+# [0.1.0-beta.5](https://github.com/agramajo/test/compare/@agramajo/alpha@0.1.0-beta.4...@agramajo/alpha@0.1.0-beta.5) (2022-05-31)
+
+
+### Features
+
+* modules ([a2ec2aa](https://github.com/agramajo/test/commit/a2ec2aa32486f8adda24781b66aa0e517e5b2d83))
+
 
 
 
