@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.1.0-beta.7](https://github.com/agramajo/test/compare/@agramajo/usage@0.1.0-beta.6...@agramajo/usage@0.1.0-beta.7) (2022-05-31)
+
+
+### Features
+
+* uno ([1078823](https://github.com/agramajo/test/commit/107882317d231b9263049c5d0274e332d633a66f))
+
+
+
+
+
 # [0.1.0-beta.6](https://github.com/agramajo/test/compare/@agramajo/usage@0.1.0-beta.5...@agramajo/usage@0.1.0-beta.6) (2022-05-31)
 
 
