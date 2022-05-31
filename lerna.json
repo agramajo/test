@@ -7,7 +7,7 @@
       "license": "MIT"
     },
     "publish": {
-      "allowBranch": ["dev", "main"],
+      "allowBranch": ["dev", "main", "staging"],
       "conventionalCommits": true,
       "message": "chore(release): 🔖 Publish new version.",
       "ignoreChanges": ["CHANGELOG.md"]
