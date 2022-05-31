@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.1.0-beta.10](https://github.com/agramajo/test/compare/@agramajo/usage@0.1.0-beta.9...@agramajo/usage@0.1.0-beta.10) (2022-05-31)
+
+
+### Features
+
+* usage agregado linea ([a06445c](https://github.com/agramajo/test/commit/a06445c693573c160a34b376f101dbb66d170e76))
+
+
+
+
+
 # [0.1.0-beta.9](https://github.com/agramajo/test/compare/@agramajo/usage@0.1.0-beta.8...@agramajo/usage@0.1.0-beta.9) (2022-05-31)
 
 
