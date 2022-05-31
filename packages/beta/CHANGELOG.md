@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0-beta.5](https://github.com/agramajo/test/compare/@agramajo/beta@0.2.0-beta.4...@agramajo/beta@0.2.0-beta.5) (2022-05-31)
+
+
+### Features
+
+* date7 ([d6e7b8b](https://github.com/agramajo/test/commit/d6e7b8b64ac526530f391ec67165f1acec6e3cb9))
+
+
+
+
+
 # [0.2.0-beta.4](https://github.com/agramajo/test/compare/@agramajo/beta@0.2.0-beta.3...@agramajo/beta@0.2.0-beta.4) (2022-05-31)
 
 
