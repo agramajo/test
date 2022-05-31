@@ -1,4 +1,4 @@
 export default function getAlpha(){
-  return 'ALPHA';
+  return 'ALPHA dos';
 }
 
